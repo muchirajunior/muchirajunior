@@ -1,6 +1,8 @@
 ### Hi there i'm muchira junior 👋
-Qt, flask, sklearn , flutter
 C++, python and Dart
+
+Qt, flask, sklearn , flutter
+
 
 <!--
 **muchirajunior/muchirajunior** is a ✨ _special_ ✨ repository because its my personal portifolio
