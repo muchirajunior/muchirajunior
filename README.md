@@ -1,5 +1,5 @@
 ### Hi there i'm muchira junior 👋
-C++, python and Dart
+python, Dart and C++
 
 Qt, flask, sklearn , flutter
 
