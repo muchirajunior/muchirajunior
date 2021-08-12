@@ -1,7 +1,7 @@
 ### Hi there i'm muchira junior 👋
 python, Dart and C++
 
-Qt, flask, sklearn , flutter
+flask, flutter
 
 
 <!--
@@ -10,7 +10,7 @@ Qt, flask, sklearn , flutter
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working startups
-- 🌱 I’m currently learning software enginerring and machine learning
+- 🌱 I’m currently learning software enginerring
 - 👯 I’m looking to collaborate you
 - 🤔 I’m looking for any help 
 - 💬 Ask me about anything
