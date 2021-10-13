@@ -1,7 +1,7 @@
 ### Hi there i'm muchira junior 👋
 python, Dart and C#
 
-flask, flutter
+flask, flutter, react
 
 
 <!--
