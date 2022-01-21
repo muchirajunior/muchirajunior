@@ -1,8 +1,9 @@
 ## Hi there i'm muchira junior 👋
 
-
+i normaly use 
 # python, Dart and C#
 
+developing softwares using
 # ASP.NET, Flask, Flutter, React Js
 
 
