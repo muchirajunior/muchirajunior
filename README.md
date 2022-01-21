@@ -14,3 +14,5 @@ developing softwares using
 - 💬 Ask me about anything
 
 ### ⚡ Hobby: i love football and rugby
+
+### :mortar_board: pround YouTube Software Engineering graduate :man_factory_worker: :smiley:
