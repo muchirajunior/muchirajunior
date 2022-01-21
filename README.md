@@ -10,9 +10,13 @@ developing softwares using
 - :tv: Watching some tech on YouTube
 - 🔭 I’m currently working with startups
 - 🌱 I’m currently learning asp.net 
+- :wink: I can write some cool Javascript :zany_face:
 - 👯 I’m  becoming better daily
+- :gift_heart: I love html
 - 💬 Ask me about anything
+- :frowning_face: Java and PHP is such a turn-off :frowning_face: :sweat:
+
 
 ### ⚡ Hobby: i love football and rugby
 
-### :mortar_board: pround YouTube Software Engineering graduate :man_factory_worker: :smiley:
+### :mortar_board: pround YouTube Software Engineering graduate :student: :man_factory_worker: :smiley:
