@@ -9,7 +9,9 @@ developing softwares using
 
 - :tv: Watching some tech on YouTube
 - 🔭 I’m currently working with startups
+- :star: I like Firebase 
 - 🌱 I’m currently learning asp.net 
+- :tada: I use PostgreSql, Mongo and Sqlite databases
 - :wink: I can write some cool Javascript :zany_face:
 - 👯 I’m  becoming better daily
 - :gift_heart: I love html
