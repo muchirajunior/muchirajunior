@@ -9,7 +9,7 @@ developing softwares using
 
 - :tv: Watching some tech on YouTube
 - 🔭 I’m currently working with startups
-- :star: I like Firebase 
+- :star: I like Firebase with Flutter Apps
 - 🌱 I’m currently learning asp.net 
 - :tada: I use PostgreSql, Mongo and Sqlite databases
 - :wink: I can write some cool Javascript :zany_face:
