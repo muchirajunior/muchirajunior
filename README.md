@@ -12,7 +12,7 @@ developing softwares using
 - :star: I like using Firebase while building Flutter Apps
 - 🌱 I’m currently learning asp.net 
 - :tada: I use PostgreSql, Mongo and Sqlite databases
-- :wink: I can write some cool Javascript :zany_face:
+- :wink: I can write some cool Javascript with SASS in REACT :zany_face:
 - 👯 I’m  becoming better daily
 - :gift_heart: I love html
 - 💬 Ask me about anything
