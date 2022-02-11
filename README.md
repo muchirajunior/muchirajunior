@@ -18,6 +18,10 @@ developing softwares using
 - 💬 Ask me about anything
 - :frowning_face: Java and PHP is such a turn-off :frowning_face: :sweat:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchirajunior)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### ⚡ Hobby: i love football and rugby
 
