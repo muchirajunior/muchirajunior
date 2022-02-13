@@ -8,7 +8,7 @@ developing softwares using
 
 
 - :tv: Watching some tech on YouTube
-- 🔭 I’m enjoy working with startups
+- 🔭 I enjoy working with startups
 - :rose: manipulating data  using python pandas and building sci-kit Learn ML Models
 - :star: I like using Firebase while building Flutter Apps
 - 🌱 I’m currently learning asp.net 
