@@ -21,6 +21,6 @@ developing softwares using
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchirajunior&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchirajunior&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### :mortar_board: pround YouTube Software Engineering graduate :student: :man_factory_worker: :smiley:
