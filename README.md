@@ -8,7 +8,7 @@ developing softwares using
 
 
 - :tv: Watching some tech on YouTube
-- 🔭 I enjoy working with startups
+- 🔭 I enjoy learning new skills in tech
 - :rose: manipulating data  using python pandas and building sci-kit Learn ML Models
 - :star: I like using Firebase while building Flutter Apps
 - 🌱 I’m currently learning asp.net 
@@ -17,7 +17,7 @@ developing softwares using
 - 👯 I’m  becoming better daily
 - :gift_heart: I love html
 - 💬 Ask me about anything
-- :frowning_face: Java and PHP is such a turn-off :frowning_face: :sweat:
+- :frowning_face: Java and PHP are such a turn-off :frowning_face: :sweat: embracing better tech :tada:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
