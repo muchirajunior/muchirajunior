@@ -17,7 +17,7 @@ developing softwares using
 - 👯 I’m  becoming better daily
 - :gift_heart: I love html with bootstrap :ring::revolving_hearts: happy :couplekiss:
 - 💬 Ask me about anything
-- :frowning_face: Java and PHP are such a turn-off :frowning_face: :sweat: embracing better tech :tada:
+- :frowning_face: Java and PHP are such a turn-off :frowning_face: :sweat: embracing better incoming tech :tada:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
