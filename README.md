@@ -15,7 +15,7 @@ developing softwares using
 - :tada: I use PostgreSql, Mongo and Sqlite databases
 - :wink: I can write some cool Javascript with SASS in REACT :zany_face:
 - 👯 I’m  becoming better daily
-- :gift_heart: I love html
+- :gift_heart: I love html with bootstrap :ring::revolving_hearts: happy :couplekiss:
 - 💬 Ask me about anything
 - :frowning_face: Java and PHP are such a turn-off :frowning_face: :sweat: embracing better tech :tada:
 
