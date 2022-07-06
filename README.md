@@ -8,7 +8,7 @@ to develop softwares using
 
 
 - :tv: Watching some tech on YouTube
-- 🌱 I’m currently learning asp.net 
+- 🌱 I’m currently learning ASP.NET 
 - :tada: I use PostgreSql, Mongo and Sqlite databases
 - :wink: I can write some cool Javascript with SASS in REACT :zany_face:
 - 🔭 Data analysis using python
