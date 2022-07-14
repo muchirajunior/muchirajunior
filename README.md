@@ -2,7 +2,6 @@
 
 I normaly use 
 ### python, Dart and C#
-
 to develop softwares using
 ### ASP.NET, Flask, Flutter, React Js
 
@@ -12,7 +11,7 @@ to develop softwares using
 - :tada: I use PostgreSql, Mongo and Sqlite databases
 - :wink: I can write some cool Javascript with SASS in REACT :zany_face:
 - 🔭 Data analysis using python
-- :gift_heart: I love html with bootstrap :ring::revolving_hearts: 
+- :gift_heart: I love HTML with Bootstrap :ring::revolving_hearts: 
 - :star: I like using Firebase while building Flutter and React Apps
 - 👯 I’m  becoming better daily
 
