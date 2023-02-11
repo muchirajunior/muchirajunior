@@ -1,5 +1,5 @@
 ## Hi there i'm muchira junior 👋
-### I am Flutter Dev 💙💙💙💙💙💙💙💙
+### I`m a Flutter Dev 💙💙💙💙💙💙💙💙
 
 ### MY STACK ::>> Flutter Dart, React Js, ASP.NET C# & Flask Python.
 
