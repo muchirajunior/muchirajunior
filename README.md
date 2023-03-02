@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning ASP.NET 
 - 🎉 I use PostgreSql, Mongo and Sqlite databases
 - ⭐ I also use Firebase for Flutter and React Apps 🎈
+- ☁️ Azure cloud computing 
 - 🛠️ I’m  becoming better daily ⚙️ 🦾
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
