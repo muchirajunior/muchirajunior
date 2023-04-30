@@ -1,7 +1,7 @@
 ## Hi there i'm muchira junior 👋
 ### I`m a Flutter Dev 💙💙💙💙💙💙💙💙
 
-### MY STACK ::>> Flutter Dart, React Js, ASP.NET C# & Flask Python.
+### MY STACK :: Flutter Dart, React Js, ASP.NET C# & Flask Python.
 
 - 💝 In love with Flutter 😘
 - 🕸️ I use REACT and BOOTSTRAP CSS fronted 💡
