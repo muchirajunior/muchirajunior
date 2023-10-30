@@ -5,7 +5,7 @@
 
 - 💝 In love with Flutter 😘
 - 📺 Always Watching some tech on YouTube
-- 🌱 I’m currently learning ASP.NET 
+- 🌱 I’m currently learning 
 - 🎉 I use PostgreSql, Mongo and Sqlite databases
 - 🕸️ I use REACT and BOOTSTRAP CSS fronted 💡
 - ⭐ I also use Firebase for Flutter and React Apps 🎈
