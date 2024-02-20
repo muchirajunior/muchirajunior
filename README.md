@@ -7,7 +7,7 @@
 - 📺 Always Watching some tech on YouTube
 - 🌱 I’m currently learning Go
 - 🎉 I use PostgreSql, Mongo and Sqlite databases
-- 🕸️ I use REACT and BOOTSTRAP CSS fronted 💡
+- 🕸️ I use REACT, BOOTSTRAP & TAILWIND CSS fronted 💡
 - ⭐ I also use Firebase for Flutter and React Apps 🎈
 - ☁️ Azure cloud computing, Docker containerization and github workflows CI/CD
 - 🛠️ I’m  becoming better daily ⚙️ 🦾
