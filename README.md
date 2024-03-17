@@ -5,12 +5,12 @@
 
 - 💝 In love with Flutter 
 - 📺 Always Watching some tech on YouTube
-- 🌱 I’m currently learning Go
-- 🎉 I use PostgreSql, Mongo and Sqlite databases
-- 🕸️ I use REACT, BOOTSTRAP & TAILWIND CSS fronted 💡
-- ⭐ I also use Firebase for Flutter and React Apps 🎈
+- 🌱 I’m currently on .NET
+- 🎉 I have Experience PostgreSql, Mongo, Sqlite  and other databases
+- 🕸️ I like  React & Bootstrap and sometimes Tailwind fronted
+- ⭐ I also use Firebase for Flutter and React Apps
 - ☁️ Azure cloud computing, Docker containerization and github workflows CI/CD
-- 🛠️ I’m  becoming better daily ⚙️ 🦾
+- 🛠️ I’m  becoming better daily 🦾
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
