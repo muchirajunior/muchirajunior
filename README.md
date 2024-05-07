@@ -1,9 +1,10 @@
 ## Hi there i'm muchira junior 👋
-### I`m a Flutter Dev 💙💙💙💙💙💙💙💙
 
-### MY STACK :: Flutter Dart, React Js, ASP.NET & Flask Python.
+### I`m a Software Dev 
 
-- 💝 In love with Flutter 
+### MY STACK :: Flutter💙Dart, React Js, ASP.NET & Flask Python.
+
+- 💝 In love with Flutter 💙
 - 📺 Always Watching some tech on YouTube
 - 🌱 I’m currently on .NET
 - 🎉 I have Experience PostgreSql, Mongo, Sqlite  and other databases
