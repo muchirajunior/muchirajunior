@@ -2,7 +2,7 @@
 
 ### I`m a Software Dev 
 
-### MY STACK :: Flutter💙Dart, React Js, ASP.NET & Flask Python.
+### MY STACK :: Flutter💙Dart, React Js, ASP.NET & Flask Python and others.
 
 - 💝 In love with Flutter 💙
 - 📺 Always Watching some tech on YouTube
