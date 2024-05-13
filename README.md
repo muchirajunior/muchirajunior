@@ -15,4 +15,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### :mortar_board: Pround YouTube Software Engineering graduate :student: :man_factory_worker:
+###  Pround YouTube Software Engineering graduate :mortar_board: :man_factory_worker:
