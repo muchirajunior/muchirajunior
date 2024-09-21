@@ -1,4 +1,4 @@
-## Hi there i'm muchira junior 👋
+## Hi there i'm Muchira Junior 👋
 
 ### I`m a Software Dev 
 
