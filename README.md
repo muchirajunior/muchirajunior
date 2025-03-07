@@ -11,7 +11,7 @@
 - 🍕 I like S+CSS, Bootstrap and  Tailwind fronted CSS, I don't like long css classes
 - 🚀 I also used Firebase but now I love Supabase for Apps(Flutter,React ...) BAAS 
 - ☁️ I have experience Azure cloud computing, Docker containerization and github workflows CI/CD. AWS rejected my credit card but am working on it.
-- :tada: Expereince on the ERP SAP and Odoo installation, Matainenance and integration
+- :tada: Expereince on the SAP and Odoo ERP installation, Matainenance and integration
 - 🛠️ I’m  becoming better daily 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
