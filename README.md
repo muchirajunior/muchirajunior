@@ -14,6 +14,6 @@
 - :tada: Corporate forced me into  SAP and Odoo ERP installation, Matainenance and integration
 - 🛠️ I’m  becoming better daily 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radica)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 ###  Pround Student of YouTube School of Software Engineering  :mortar_board: :man_factory_worker:
