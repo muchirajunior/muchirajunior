@@ -5,7 +5,7 @@
 ### MY STACK :: Flutter💙 Dart, JavaScript(NextJs) and SQL.
 
 - 💙 In love with Flutter 
-- 🎬 Always Watching some tech on YouTube
+- 🎬 Watching some tech on YouTube
 - 📚 I’m currently on NextJs
 - 🍔 PostgreSql, MongoDB, Sqlite databases.
 - 🍕 Bootstrap and Tailwind CSS, I don't like long CSS classes.
