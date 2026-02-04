@@ -1,8 +1,8 @@
 ## Hi there i'm MUCHIRA JUNIOR 👋
 
-### I`m a Software Dev 
+### I`m a Software Developer
 
-### MY STACK :: Flutter💙 Dart, JavaScript(NextJs) and SQL.
+### MY STACK: Flutter💙 Dart, JavaScript(NextJs) and SQL.
 
 - 💙 In love with Flutter 
 - 🎬 Watching some tech on YouTube
@@ -12,7 +12,7 @@
 - 🍕 Bootstrap and DaisyUI (with Tailwind), I don't like long CSS classes.
 - 🚀  Firebase & Supabase for Apps BAAS.
 - ☁️ Azure cloud using Docker, github actions CI/CD. AWS rejected my credit card but am working on it.
-- 🔫 Corporate forced me into  SAP ERP
+- 🔫 Corporate forced me into SAP ERP, C#, ASP.NET .........
 - 🛠️ I’m  becoming better daily 
 
 ###  Pround Student of YouTube School of Software Engineering  :mortar_board: :man_factory_worker:
