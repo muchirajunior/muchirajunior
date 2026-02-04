@@ -2,9 +2,9 @@
 
 ### I`m a Software Developer
 
-### MY STACK: Flutter💙 Dart, JavaScript(NextJs) and SQL.
+### MY STACK: Flutter Dart, JavaScript(NextJs) and SQL.
 
-- 💙 In love with Flutter 
+- 💙 Building beautiful apps with Flutter 
 - 🎬 Watching some tech on YouTube
 - 📚 I’m currently on Fullstack NextJs
 - ✅ I can roll my own Auth on Hono-Drizzle/Prisma-Typescript BE.
