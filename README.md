@@ -15,6 +15,4 @@
 - 🔫 Corporate forced me into  SAP ERP
 - 🛠️ I’m  becoming better daily 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ###  Pround Student of YouTube School of Software Engineering  :mortar_board: :man_factory_worker:
