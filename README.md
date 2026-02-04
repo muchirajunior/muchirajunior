@@ -6,12 +6,13 @@
 
 - 💙 In love with Flutter 
 - 🎬 Watching some tech on YouTube
-- 📚 I’m currently on NextJs
+- 📚 I’m currently on Fullstack NextJs
+- ✅ I can roll my own Auth on Hono-Drizzle/Prisma-Typescript BE.
 - 🍔 PostgreSql, MongoDB, Sqlite databases(often regret writting raw SQL).
 - 🍕 Bootstrap and DaisyUI (with Tailwind), I don't like long CSS classes.
-- 🚀  Firebase & Supabase for Apps(Flutter,React ...) BAAS 
+- 🚀  Firebase & Supabase for Apps BAAS.
 - ☁️ Azure cloud using Docker, github actions CI/CD. AWS rejected my credit card but am working on it.
-- :tada: Corporate forced me into  SAP ERP
+- 🔫 Corporate forced me into  SAP ERP
 - 🛠️ I’m  becoming better daily 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchirajunior&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
