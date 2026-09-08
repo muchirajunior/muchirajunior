@@ -1,8 +1,6 @@
 ## Hi there i'm MUCHIRA JUNIOR 👋
 
-### I`m an AI Software Developer
-
-### MY STACK: Flutter, JavaScript/Typescript, Python and SQL.
+### I`m an AI Software Developer, STACK: Flutter, JavaScript/Typescript, Python and SQL.
 
 - 💙 Building beautiful apps with Flutter 
 - 📚 I’m currently bulding AI agentic systems 
