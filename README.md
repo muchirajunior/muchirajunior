@@ -9,7 +9,6 @@
 - ✅ Building RAG, MCP and Vector databases for AI systems .
 - 🍔 PostgreSql, MongoDB, Sqlite databases(often regret writting raw SQL).
 - 🚀 NextJs/React, Tailwind css, Firebase & Supabase for Apps BAAS.
-- 🔫 Corporate led me into SAP ERP, C#, ASP.NET, Filament/Laravel.
-- 🛠️ I’m  becoming better daily 
+-  🛠️ Corporate led me into SAP ERP, C#, ASP.NET, Filament/Laravel.
 
-###  Learning a lot on YouTube  :mortar_board: :man_factory_worker:
+###  Learning a lot on YouTube every day :mortar_board: :man_factory_worker:
