@@ -11,4 +11,4 @@ STACK:: Mobile apps, APIs and Databases.
 - 🚀 NextJs/React, Tailwind css, Firebase & Supabase for Apps BAAS.
 -  🛠️ Corporate led me into SAP ERP, C#, ASP.NET, Filament/Laravel.
 
-###  Learning a lot on YouTube every day :mortar_board: :man_factory_worker:
+###  Learning every day on YouTube  :mortar_board: :man_factory_worker:
