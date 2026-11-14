@@ -2,7 +2,7 @@
 
 ### I`m a Software Developer.
 
-STACK: Cross platform apps(Flutter), APIs and Databases.
+STACK: Cross platform apps, APIs and Databases.
 
 - 💙 Building beautiful apps with Flutter
 - 🍔 PostgreSql, MongoDB, Sqlite databases(often regret writting raw SQL).
