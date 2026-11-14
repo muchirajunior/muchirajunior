@@ -1,6 +1,6 @@
 # Hi there i'm MUCHIRA JUNIOR 👋
 
-### I`m a Software Developer.
+### Software Developer.
 
 STACK: Cross platform apps, APIs and Databases.
 
