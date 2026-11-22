@@ -9,7 +9,8 @@ STACK: Cross platform apps, APIs and Databases.
 - 🚀 NextJs/React, Tailwind css, Firebase & Supabase for apps BAAS.
 - 🛠️ Data and APIs using Python, Javascript/Typescript and others.
 
-Shopper shopping list app project
-![Shopper](./Shopper.png)
+Shopper shopping list app project,Click download on Google play
+
+[![Shopper](./Shopper.png)](https://play.google.com/store/apps/details?id=com.shopper.shopperslist)
 
 ###  Learning every day on YouTube  :mortar_board: :man_factory_worker:
